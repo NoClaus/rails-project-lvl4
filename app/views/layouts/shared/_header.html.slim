@@ -1,0 +1,11 @@
+header.d-flex.justify-content-between.align-items-center.py-lg-3.mb-4.border-bottom
+  = link_to root_path, class: 'link-dark text-decoration-none'
+    h1.h3 = t('title')
+  nav.nav.nav-masthead.justify-content-center.align-items-center.flex-grow-1
+    = link_to t('nav.home'), root_path, class: 'nav-link text-body'
+
+    - if signed_in?
+      = link_to t('nav.repos'), '', class: 'nav-link text-body'
+      = link_to t('nav.logout'), auth_logout_path,  method: :delete, class: 'nav-link text-body ms-auto'
+    - else
+      = link_to t('nav.login'), auth_request_path(:github), method: :post, class: 'nav-link text-body ms-auto'

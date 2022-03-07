@@ -1,0 +1,17 @@
+doctype html
+html.h-100.no-touch
+  head
+    title = t('title')
+    meta[name="viewport" content="width=device-width,initial-scale=1"]
+    = csrf_meta_tags
+    = csp_meta_tag
+    = stylesheet_pack_tag 'application', media: 'all'
+    = javascript_pack_tag 'application'
+
+  body.d-flex.h-100
+    .container.d-flex.w-100.h-100.p-3.mx-auto.flex-column
+      = render 'layouts/shared/header'
+      = render 'layouts/shared/flash'
+      main
+        = yield
+      = render 'layouts/shared/footer'
