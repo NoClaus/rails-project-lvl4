@@ -1,11 +1,15 @@
 # frozen_string_literal: true
 
 class Web::RepositoriesController < ApplicationController
+  after_action :verify_authorized
+
   def index
+    authorize @repositories
     @repositories = current_user.repositories
   end
 
   def new
+    authorize Repository
     available_languages = Repository.language.values
 
     client = Octokit::Client.new access_token: current_user.token, per_page: 200
@@ -18,6 +22,7 @@ class Web::RepositoriesController < ApplicationController
   end
 
   def create
+    authorize Repository
     @repository = current_user.repositories.build(repository_params)
 
     if @repository.save
