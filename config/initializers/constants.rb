@@ -1,0 +1,1 @@
+AVAILABLE_LANGUAGES = %w[javascript].freeze
