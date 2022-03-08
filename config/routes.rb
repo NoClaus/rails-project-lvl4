@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  scope module: :web do
+    get '/auth/:provider/callback', to: 'auth#callback', as: :callback_auth, via: :all
+    post '/auth/:provider', to: 'auth#request', as: :auth_request
+    delete '/auth/logout', to: 'auth#logout', as: :auth_logout
+  end
 end
