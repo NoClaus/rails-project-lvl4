@@ -1,3 +1,6 @@
-h1 Hello World
-p The time is now:
-= Time.now
+.p-3.p-md-4.p-lg-5.border-0.shadow
+  h2 = t('.title')
+  p = t('.description')
+  = link_to(t('.learn_more'),
+              'https://ru.hexlet.io/programs/rails/projects/66',
+              class: 'btn btn-primary btn-lg px-4 mt-3 fw-bold')
