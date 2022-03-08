@@ -1,0 +1,6 @@
+en:
+  pundit:
+    default: This action is only available to authorized users
+    repository_policy:
+      show?: You cannot watch this repository
+      new?: You cannot create new repository
