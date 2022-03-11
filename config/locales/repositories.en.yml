@@ -9,3 +9,24 @@ en:
         passed: Last check passed
       create:
         success: Repository was successfully created
+      show:
+        empty_checks: There are no checks for this repository yet
+        name: Name
+        language: Language
+        created_at: Created at
+        updated_at: Updated at
+        id: ID
+        state: State
+        reference: Reference
+        check_passed: Check passed
+      checks:
+        create:
+          success: Check was successfully created
+        show:
+          title: 'Check #%{id}'
+          return: Return to repository
+          empty_issues: There are no issues for this check yet
+          created_at: Created at
+          status: Status
+          passed: Check passed
+          issues_count: Issues count
