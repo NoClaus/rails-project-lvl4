@@ -1,1 +1,1 @@
-AVAILABLE_LANGUAGES = %w[javascript].freeze
+AVAILABLE_LANGUAGES = %w[javascript ruby].freeze
