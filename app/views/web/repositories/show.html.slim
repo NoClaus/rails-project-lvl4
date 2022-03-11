@@ -1,0 +1,39 @@
+.p-3.p-md-4.p-lg-5.border-0.shadow
+  h2.mb-4 = @repository.repo_name
+  = link_to(t('.check'),
+            repository_checks_path(@repository),
+            method: :post,
+            class: 'btn btn-primary mb-4')
+  .mb-4
+    p.mb-2
+      strong.me-2 = t('.name')
+      span = @repository.repo_name
+    p.mb-2
+      strong.me-2 = t('.language')
+      span = @repository.language&.text
+    p.mb-2
+      strong.me-2 = t('.created_at')
+      span = @repository.created_at.to_formatted_s(:long)
+    p.mb-0
+      strong.me-2 = t('.updated_at')
+      span = @repository.updated_at.to_formatted_s(:long)
+  hr
+  - if @checks.empty?
+    p.text-center.p-2 = t('.empty_checks')
+  - else
+    table.table.table-striped
+        thead
+          tr
+            th = t('.id')
+            th = t('.state')
+            th = t('.reference')
+            th = t('.check_passed')
+            th = t('.created_at')
+        tbody
+          - @checks.each do |check|
+            tr
+              td = link_to check.id, repository_check_path(@repository, check)
+              td = check.state
+              td = link_to check.reference_sha, check.reference_url
+              td = check.passed
+              td = check.created_at.to_formatted_s(:short)
