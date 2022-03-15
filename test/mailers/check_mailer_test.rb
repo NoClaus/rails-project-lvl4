@@ -2,7 +2,7 @@
 
 require 'test_helper'
 
-class Repository::CheckTest < ActiveSupport::TestCase
+class CheckMailerTest < ActionMailer::TestCase
   # test "the truth" do
   #   assert true
   # end

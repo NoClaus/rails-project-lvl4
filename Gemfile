@@ -72,7 +72,7 @@ gem 'octokit', '~> 4.0'
 gem 'omniauth-github', github: 'omniauth/omniauth-github', branch: 'master'
 gem 'omniauth-rails_csrf_protection'
 gem 'pg'
-gem "pundit"
+gem 'pundit'
 gem 'rollbar'
 gem 'simple_form'
 gem 'slim-rails'

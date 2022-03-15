@@ -39,14 +39,14 @@ class RepositoryCheckJob < ApplicationJob
       parsed_results = actions[:parse_check_results].call(results)
 
       client = Octokit::Client.new(access_token: repository.user.token, per_page: 200)
-      last_commit = client::commits(repository.github_id).first
+      last_commit = client.commits(repository.github_id).first
 
       check.update(
         passed: error_count.zero?,
         error_count: error_count,
         result: JSON.generate(parsed_results),
         reference_url: last_commit['html_url'],
-        reference_sha: last_commit['sha'][0, 8],
+        reference_sha: last_commit['sha'][0, 8]
       )
 
       check.finish!

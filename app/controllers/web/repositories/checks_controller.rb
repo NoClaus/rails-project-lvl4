@@ -14,6 +14,6 @@ class Web::Repositories::ChecksController < ApplicationController
   end
 
   def show
-    @check = RepositoryCheck.find(params[:id])
+    @check = Repository::Check.find(params[:id])
   end
 end
