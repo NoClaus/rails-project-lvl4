@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class RepositoryLoaderJob < ApplicationJob
+class UpdateInfoRepositoryJob < ApplicationJob
   include Rails.application.routes.url_helpers
 
   queue_as :default
@@ -14,7 +14,8 @@ class RepositoryLoaderJob < ApplicationJob
 
     repository.update(
       github_id: found_repo[:id],
-      repo_name: found_repo[:full_name],
+      full_name: found_repo[:full_name],
+      name: found_repo[:name],
       clone_url: found_repo[:clone_url],
       language: found_repo[:language].downcase
     )
@@ -32,6 +33,6 @@ class RepositoryLoaderJob < ApplicationJob
       }
     )
 
-    RepositoryCheckJob.perform_later(repository_id, check_id)
+    CheckRepositoryJob.perform_later(repository_id, check_id)
   end
 end

@@ -1,6 +1,10 @@
 # frozen_string_literal: true
 
 Rails.application.routes.draw do
+  namespace :api do
+    post 'checks', to: 'checks#checks'
+  end
+
   scope module: :web do
     root 'welcome#index'
 

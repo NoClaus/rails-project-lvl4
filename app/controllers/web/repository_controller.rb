@@ -4,8 +4,14 @@ class Web::RepositoriesController < ApplicationController
   after_action :verify_authorized
 
   def index
+    @repositories = current_user&.repositories&.order(created_at: :desc)
     authorize @repositories
-    @repositories = current_user.repositories
+  end
+
+  def show
+    @repository = Repository.find(params[:id])
+    authorize @repository
+    @checks = @repository.checks.order(created_at: :desc)
   end
 
   def new
@@ -24,9 +30,10 @@ class Web::RepositoriesController < ApplicationController
   def create
     authorize Repository
     @repository = current_user.repositories.build(repository_params)
+    @check = @repository.checks.build
 
     if @repository.save
-      RepositoryLoaderJob.perform_later @repository.id, current_user.token
+      UpdateInfoRepositoryJob.perform_later @repository.id, @check.id
       redirect_to repositories_path, notice: t('.success')
     else
       render :new
