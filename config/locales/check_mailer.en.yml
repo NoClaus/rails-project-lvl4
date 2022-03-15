@@ -1,0 +1,13 @@
+en:
+  check_mailer:
+    check_success_email:
+      success_subject: Check complete
+      check_success: Congratulate. All checks in the %{full_name} repository were successful
+      issues_count: Issues count
+      message: Message
+      rule: Rule
+      line_column: Line Column
+      watch: Watch on the website
+    check_error_email:
+      error_subject: Check failed
+      check_error: '%{full_name} repository check ended with an error'

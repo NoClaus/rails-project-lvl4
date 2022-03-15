@@ -1,0 +1,22 @@
+- if @check.error_count.zero?
+  p.text-center.p-2 = t('.empty_issues')
+- else
+  p.mb-2
+    strong.me-2 = t('.issues_count')
+    span = @check.error_count
+  table.table
+      thead
+        tr
+          th = t('.message')
+          th = t('.rule')
+          th = t('.line_column')
+      tbody
+        - JSON.parse(@check.result).each do |result|
+          tr.table-light
+            td(colspan="3") = result['file_path']
+
+          - result['messages'].each do |message|
+            tr
+              td = message['message']
+              td = message['rule']
+              td = message['line_column']

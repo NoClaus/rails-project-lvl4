@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 class RepositoryLoaderJob < ApplicationJob
+  include Rails.application.routes.url_helpers
+
   queue_as :default
 
   def perform(repository_id, check_id)
@@ -15,6 +17,19 @@ class RepositoryLoaderJob < ApplicationJob
       repo_name: found_repo[:full_name],
       clone_url: found_repo[:clone_url],
       language: found_repo[:language].downcase
+    )
+
+    client.create_hook(
+      repository.github_id,
+      'web',
+      {
+        url: api_checks_url,
+        content_type: 'json'
+      },
+      {
+        events: ['push'],
+        active: true
+      }
     )
 
     RepositoryCheckJob.perform_later(repository_id, check_id)
