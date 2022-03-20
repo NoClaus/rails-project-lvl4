@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 class Web::RepositoriesController < ApplicationController
+  include Import['repository_api']
+
   after_action :verify_authorized
 
   def index
@@ -18,11 +20,12 @@ class Web::RepositoriesController < ApplicationController
     authorize Repository
     available_languages = Repository.language.values
 
-    client = Octokit::Client.new access_token: current_user.token, per_page: 200
-    @repos = client.repos
-                   .select { |repo| repo.language.present? }
-                   .filter { |repo| available_languages.include? repo.language.downcase }
-                   .map { |repo| [repo.full_name, repo.id] }
+    client = repository_api.client(current_user.token)
+    client_repositories = repository_api.get_repositories(client)
+    @repos = client_repositories
+             .select { |repo| repo.language.present? }
+             .filter { |repo| available_languages.include? repo.language.downcase }
+             .map { |repo| [repo.full_name, repo.id] }
 
     @repository = current_user.repositories.build
   end
@@ -33,7 +36,7 @@ class Web::RepositoriesController < ApplicationController
     @check = @repository.checks.build
 
     if @repository.save
-      UpdateInfoRepositoryJob.perform_later @repository.id, @check.id
+      UpdateInfoRepositoryJob.perform_later @repository
       redirect_to repositories_path, notice: t('.success')
     else
       render :new

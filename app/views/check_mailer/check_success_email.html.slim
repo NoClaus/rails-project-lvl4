@@ -1,10 +1,12 @@
+= link_to t('.watch'), repository_check_url(@check.repository, @check)
+
 - if @check.error_count.zero?
-  p.text-center.p-2 = t('.empty_issues')
+  p = t('.check_success', full_name: @check.repository.full_name)
 - else
-  p.mb-2
-    strong.me-2 = t('.issues_count')
+  p
+    strong = t('.issues_count')
     span = @check.error_count
-  table.table
+  table
       thead
         tr
           th = t('.message')
@@ -12,7 +14,7 @@
           th = t('.line_column')
       tbody
         - JSON.parse(@check.result).each do |result|
-          tr.table-light
+          tr
             td(colspan="3") = result['file_path']
 
           - result['messages'].each do |message|

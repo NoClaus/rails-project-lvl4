@@ -6,7 +6,7 @@ class Web::Repositories::ChecksController < ApplicationController
     @check = @repository.checks.build
 
     if @check.save
-      CheckRepositoryJob.perform_later @repository.id, @check.id
+      CheckRepositoryJob.perform_later @check
       redirect_to @repository, notice: t('.success')
     else
       redirect_to @repository

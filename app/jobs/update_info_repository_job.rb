@@ -5,12 +5,12 @@ class UpdateInfoRepositoryJob < ApplicationJob
 
   queue_as :default
 
-  def perform(repository_id, check_id)
-    repository = Repository.find(repository_id)
-    github_id = repository.github_id
+  def perform(repository)
+    repository_api = ApplicationContainer[:repository_api]
+    github_id = repository.github_id.to_i
 
-    client = Octokit::Client.new(access_token: repository.user.token, per_page: 200)
-    found_repo = client.repos.find { |repo| repo.id == github_id }
+    client = repository_api.client(repository.user.token)
+    found_repo = repository_api.get_repository(client, github_id)
 
     repository.update(
       github_id: found_repo[:id],
@@ -20,19 +20,7 @@ class UpdateInfoRepositoryJob < ApplicationJob
       language: found_repo[:language].downcase
     )
 
-    client.create_hook(
-      repository.github_id,
-      'web',
-      {
-        url: api_checks_url,
-        content_type: 'json'
-      },
-      {
-        events: ['push'],
-        active: true
-      }
-    )
-
-    CheckRepositoryJob.perform_later(repository_id, check_id)
+    CheckRepositoryJob.perform_later(repository.checks.last)
+    repository_api.create_hook(client, github_id, api_checks_url)
   end
 end

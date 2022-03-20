@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class RepositoryCheckJob < ApplicationJob
+class CheckRepositoryJob < ApplicationJob
   queue_as :default
 
   before_perform do
@@ -17,9 +17,9 @@ class RepositoryCheckJob < ApplicationJob
     FileUtils.remove_dir(@repo_path, true)
   end
 
-  def perform(repository_id, check_id)
-    repository = Repository.find(repository_id)
-    check = Repository::Check.find(check_id)
+  def perform(check)
+    repository_api = ApplicationContainer[:repository_api]
+    repository = check.repository
 
     check.check!
 
@@ -38,8 +38,8 @@ class RepositoryCheckJob < ApplicationJob
       error_count = actions[:get_error_count].call(results)
       parsed_results = actions[:parse_check_results].call(results)
 
-      client = Octokit::Client.new(access_token: repository.user.token, per_page: 200)
-      last_commit = client.commits(repository.github_id).first
+      client = repository_api.client(repository.user.token)
+      last_commit = repository_api.get_repository_commits(client, repository.github_id.to_i).first
 
       check.update(
         passed: error_count.zero?,
