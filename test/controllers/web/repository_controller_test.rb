@@ -2,9 +2,14 @@
 
 require 'test_helper'
 
-class WelcomeControllerTest < ActionDispatch::IntegrationTest
+class Web::RepositoriesControllerTest < ActionDispatch::IntegrationTest
+  setup do
+    @user = users(:one)
+    sign_in_as_user @user
+  end
+
   test 'should get index' do
-    get welcome_index_url
+    get repositories_path
     assert_response :success
   end
 end

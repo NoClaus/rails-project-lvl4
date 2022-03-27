@@ -1,0 +1,1361 @@
+[
+  {
+    "sha": "587a7e25744c3cd1b2321f2d5d140536fc3cf83a",
+    "node_id": "C_kwDOG1-s0NoAKDU4N2E3ZTI1NzQ0YzNjZDFiMjMyMWYyZDVkMTQwNTM2ZmMzY2Y4M2E",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T18:47:44Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T18:47:44Z"
+      },
+      "message": "Fix locale",
+      "tree": {
+        "sha": "d8b9cd8bab752f5115dc30c7128e161491940711",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/d8b9cd8bab752f5115dc30c7128e161491940711"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/587a7e25744c3cd1b2321f2d5d140536fc3cf83a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/587a7e25744c3cd1b2321f2d5d140536fc3cf83a",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/587a7e25744c3cd1b2321f2d5d140536fc3cf83a",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/587a7e25744c3cd1b2321f2d5d140536fc3cf83a/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e06cad926cd4a1f42792c958db47b57f2a382de1",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e06cad926cd4a1f42792c958db47b57f2a382de1",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/e06cad926cd4a1f42792c958db47b57f2a382de1"
+      }
+    ]
+  },
+  {
+    "sha": "e06cad926cd4a1f42792c958db47b57f2a382de1",
+    "node_id": "C_kwDOG1-s0NoAKGUwNmNhZDkyNmNkNGExZjQyNzkyYzk1OGRiNDdiNTdmMmEzODJkZTE",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T18:44:38Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T18:44:38Z"
+      },
+      "message": "Fix head layout",
+      "tree": {
+        "sha": "2bf652d3f5fc9a5e77a807dce93b3a72b8de0bc0",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/2bf652d3f5fc9a5e77a807dce93b3a72b8de0bc0"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/e06cad926cd4a1f42792c958db47b57f2a382de1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e06cad926cd4a1f42792c958db47b57f2a382de1",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/e06cad926cd4a1f42792c958db47b57f2a382de1",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e06cad926cd4a1f42792c958db47b57f2a382de1/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "b11ba96911664bda1f4bb545a81f8788df704a7f",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/b11ba96911664bda1f4bb545a81f8788df704a7f",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/b11ba96911664bda1f4bb545a81f8788df704a7f"
+      }
+    ]
+  },
+  {
+    "sha": "b11ba96911664bda1f4bb545a81f8788df704a7f",
+    "node_id": "C_kwDOG1-s0NoAKGIxMWJhOTY5MTE2NjRiZGExZjRiYjU0NWE4MWY4Nzg4ZGY3MDRhN2Y",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T18:08:30Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T18:08:30Z"
+      },
+      "message": "Fix head layout",
+      "tree": {
+        "sha": "8bbd0c22c1b1f4b255dc0a6a2ee0b1871d025ea8",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/8bbd0c22c1b1f4b255dc0a6a2ee0b1871d025ea8"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/b11ba96911664bda1f4bb545a81f8788df704a7f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/b11ba96911664bda1f4bb545a81f8788df704a7f",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/b11ba96911664bda1f4bb545a81f8788df704a7f",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/b11ba96911664bda1f4bb545a81f8788df704a7f/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e2b8fa5d44330e86e3577b5badb1ef96df1664a0",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e2b8fa5d44330e86e3577b5badb1ef96df1664a0",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/e2b8fa5d44330e86e3577b5badb1ef96df1664a0"
+      }
+    ]
+  },
+  {
+    "sha": "e2b8fa5d44330e86e3577b5badb1ef96df1664a0",
+    "node_id": "C_kwDOG1-s0NoAKGUyYjhmYTVkNDQzMzBlODZlMzU3N2I1YmFkYjFlZjk2ZGYxNjY0YTA",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T17:50:20Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T17:50:20Z"
+      },
+      "message": "Fix head layout",
+      "tree": {
+        "sha": "0ebf49bfbfdca3bf07475d7930c21a67f42a4df2",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/0ebf49bfbfdca3bf07475d7930c21a67f42a4df2"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/e2b8fa5d44330e86e3577b5badb1ef96df1664a0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e2b8fa5d44330e86e3577b5badb1ef96df1664a0",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/e2b8fa5d44330e86e3577b5badb1ef96df1664a0",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e2b8fa5d44330e86e3577b5badb1ef96df1664a0/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "ae765cc8f2542b2a793591e908e54465fa702abd",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/ae765cc8f2542b2a793591e908e54465fa702abd",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/ae765cc8f2542b2a793591e908e54465fa702abd"
+      }
+    ]
+  },
+  {
+    "sha": "ae765cc8f2542b2a793591e908e54465fa702abd",
+    "node_id": "C_kwDOG1-s0NoAKGFlNzY1Y2M4ZjI1NDJiMmE3OTM1OTFlOTA4ZTU0NDY1ZmE3MDJhYmQ",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T17:49:23Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T17:49:23Z"
+      },
+      "message": "Fix head layout",
+      "tree": {
+        "sha": "3d8bb43cd6f16ef899919775a6c7798b96bee1b5",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/3d8bb43cd6f16ef899919775a6c7798b96bee1b5"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/ae765cc8f2542b2a793591e908e54465fa702abd",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/ae765cc8f2542b2a793591e908e54465fa702abd",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/ae765cc8f2542b2a793591e908e54465fa702abd",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/ae765cc8f2542b2a793591e908e54465fa702abd/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "3d3fa99350bc5ab3952550a4427bae742f947968",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/3d3fa99350bc5ab3952550a4427bae742f947968",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/3d3fa99350bc5ab3952550a4427bae742f947968"
+      }
+    ]
+  },
+  {
+    "sha": "3d3fa99350bc5ab3952550a4427bae742f947968",
+    "node_id": "C_kwDOG1-s0NoAKDNkM2ZhOTkzNTBiYzVhYjM5NTI1NTBhNDQyN2JhZTc0MmY5NDc5Njg",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T17:30:35Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-24T17:30:35Z"
+      },
+      "message": "Chage seed.rb",
+      "tree": {
+        "sha": "e8950de8ef14520aaedc98bc43c5343e33114a9d",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/e8950de8ef14520aaedc98bc43c5343e33114a9d"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/3d3fa99350bc5ab3952550a4427bae742f947968",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/3d3fa99350bc5ab3952550a4427bae742f947968",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/3d3fa99350bc5ab3952550a4427bae742f947968",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/3d3fa99350bc5ab3952550a4427bae742f947968/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e2b721dddc279828fcf160e646860201215dfbb6",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e2b721dddc279828fcf160e646860201215dfbb6",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/e2b721dddc279828fcf160e646860201215dfbb6"
+      }
+    ]
+  },
+  {
+    "sha": "e2b721dddc279828fcf160e646860201215dfbb6",
+    "node_id": "C_kwDOG1-s0NoAKGUyYjcyMWRkZGMyNzk4MjhmY2YxNjBlNjQ2ODYwMjAxMjE1ZGZiYjY",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-21T19:18:39Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-03-21T19:18:39Z"
+      },
+      "message": "Some fixies",
+      "tree": {
+        "sha": "c96370c06ef1da269de2c49591a5bda45ca4fc4f",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/c96370c06ef1da269de2c49591a5bda45ca4fc4f"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/e2b721dddc279828fcf160e646860201215dfbb6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e2b721dddc279828fcf160e646860201215dfbb6",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/e2b721dddc279828fcf160e646860201215dfbb6",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/e2b721dddc279828fcf160e646860201215dfbb6/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "69ac0a021d72f1d864b540cc1f605af02541cd32",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/69ac0a021d72f1d864b540cc1f605af02541cd32",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/69ac0a021d72f1d864b540cc1f605af02541cd32"
+      }
+    ]
+  },
+  {
+    "sha": "69ac0a021d72f1d864b540cc1f605af02541cd32",
+    "node_id": "C_kwDOG1-s0NoAKDY5YWMwYTAyMWQ3MmYxZDg2NGI1NDBjYzFmNjA1YWYwMjU0MWNkMzI",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T18:12:38Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T18:12:38Z"
+      },
+      "message": "Step 7: Fix development config",
+      "tree": {
+        "sha": "94d9a3b9016d1537f34d4352d5c40a9fea7018ad",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/94d9a3b9016d1537f34d4352d5c40a9fea7018ad"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/69ac0a021d72f1d864b540cc1f605af02541cd32",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/69ac0a021d72f1d864b540cc1f605af02541cd32",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/69ac0a021d72f1d864b540cc1f605af02541cd32",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/69ac0a021d72f1d864b540cc1f605af02541cd32/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "a2939a362a6641cff660153fdaf35273d635abfa",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/a2939a362a6641cff660153fdaf35273d635abfa",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/a2939a362a6641cff660153fdaf35273d635abfa"
+      }
+    ]
+  },
+  {
+    "sha": "a2939a362a6641cff660153fdaf35273d635abfa",
+    "node_id": "C_kwDOG1-s0NoAKGEyOTM5YTM2MmE2NjQxY2ZmNjYwMTUzZmRhZjM1MjczZDYzNWFiZmE",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:44:45Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:44:45Z"
+      },
+      "message": "Step 7: Some fixes in head view and webpack",
+      "tree": {
+        "sha": "3af2d57fa60994865d874bc22a539475f4ccd15e",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/3af2d57fa60994865d874bc22a539475f4ccd15e"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/a2939a362a6641cff660153fdaf35273d635abfa",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/a2939a362a6641cff660153fdaf35273d635abfa",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/a2939a362a6641cff660153fdaf35273d635abfa",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/a2939a362a6641cff660153fdaf35273d635abfa/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "4780fb66742ea5c921f5b5b5b1680ebfa81a8caf",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/4780fb66742ea5c921f5b5b5b1680ebfa81a8caf",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/4780fb66742ea5c921f5b5b5b1680ebfa81a8caf"
+      }
+    ]
+  },
+  {
+    "sha": "4780fb66742ea5c921f5b5b5b1680ebfa81a8caf",
+    "node_id": "C_kwDOG1-s0NoAKDQ3ODBmYjY2NzQyZWE1YzkyMWY1YjViNWIxNjgwZWJmYTgxYThjYWY",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:18:28Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:18:28Z"
+      },
+      "message": "Step 7: Added README.MD file",
+      "tree": {
+        "sha": "9b9fa327bd9d0832bfdf68f486955368bd38671a",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/9b9fa327bd9d0832bfdf68f486955368bd38671a"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/4780fb66742ea5c921f5b5b5b1680ebfa81a8caf",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/4780fb66742ea5c921f5b5b5b1680ebfa81a8caf",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/4780fb66742ea5c921f5b5b5b1680ebfa81a8caf",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/4780fb66742ea5c921f5b5b5b1680ebfa81a8caf/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "52f1d7fceb87958ebb8de512ac94a539607be960",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/52f1d7fceb87958ebb8de512ac94a539607be960",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/52f1d7fceb87958ebb8de512ac94a539607be960"
+      }
+    ]
+  },
+  {
+    "sha": "52f1d7fceb87958ebb8de512ac94a539607be960",
+    "node_id": "C_kwDOG1-s0NoAKDUyZjFkN2ZjZWI4Nzk1OGViYjhkZTUxMmFjOTRhNTM5NjA3YmU5NjA",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:12:48Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:12:48Z"
+      },
+      "message": "Step 7: Some fixes",
+      "tree": {
+        "sha": "ca8204e3d5cbfc598afc2d9cc0a42463bd8d16b8",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/ca8204e3d5cbfc598afc2d9cc0a42463bd8d16b8"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/52f1d7fceb87958ebb8de512ac94a539607be960",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/52f1d7fceb87958ebb8de512ac94a539607be960",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/52f1d7fceb87958ebb8de512ac94a539607be960",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/52f1d7fceb87958ebb8de512ac94a539607be960/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c"
+      }
+    ]
+  },
+  {
+    "sha": "fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c",
+    "node_id": "C_kwDOG1-s0NoAKGZhZGI4NjVhNmM0YTIzNjFhMTA4MWFlYjNkNGEyZTliYTA2M2NmNWM",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:11:14Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:11:14Z"
+      },
+      "message": "Step 7: Some fixes",
+      "tree": {
+        "sha": "8ffe7bc0ed46da1e783afe54c88f5dd6ec918395",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/8ffe7bc0ed46da1e783afe54c88f5dd6ec918395"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fadb865a6c4a2361a1081aeb3d4a2e9ba063cf5c/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6239d648e87ecd471f5c6b92e4b51b608e69b4ae",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6239d648e87ecd471f5c6b92e4b51b608e69b4ae",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/6239d648e87ecd471f5c6b92e4b51b608e69b4ae"
+      }
+    ]
+  },
+  {
+    "sha": "6239d648e87ecd471f5c6b92e4b51b608e69b4ae",
+    "node_id": "C_kwDOG1-s0NoAKDYyMzlkNjQ4ZTg3ZWNkNDcxZjVjNmI5MmU0YjUxYjYwOGU2OWI0YWU",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:09:10Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:09:10Z"
+      },
+      "message": "Step 7: Some fixes",
+      "tree": {
+        "sha": "6b22428b756e9388cb53bb410e261cc7ac9c88a1",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/6b22428b756e9388cb53bb410e261cc7ac9c88a1"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/6239d648e87ecd471f5c6b92e4b51b608e69b4ae",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6239d648e87ecd471f5c6b92e4b51b608e69b4ae",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/6239d648e87ecd471f5c6b92e4b51b608e69b4ae",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6239d648e87ecd471f5c6b92e4b51b608e69b4ae/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "1dadb367998a385e3d079cec818abdb712613e5d",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/1dadb367998a385e3d079cec818abdb712613e5d",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/1dadb367998a385e3d079cec818abdb712613e5d"
+      }
+    ]
+  },
+  {
+    "sha": "1dadb367998a385e3d079cec818abdb712613e5d",
+    "node_id": "C_kwDOG1-s0NoAKDFkYWRiMzY3OTk4YTM4NWUzZDA3OWNlYzgxOGFiZGI3MTI2MTNlNWQ",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:04:17Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-20T17:04:17Z"
+      },
+      "message": "Step 7: Some fixes",
+      "tree": {
+        "sha": "076c8c952bc5774f14b13cee33e1163053bdb46d",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/076c8c952bc5774f14b13cee33e1163053bdb46d"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/1dadb367998a385e3d079cec818abdb712613e5d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/1dadb367998a385e3d079cec818abdb712613e5d",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/1dadb367998a385e3d079cec818abdb712613e5d",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/1dadb367998a385e3d079cec818abdb712613e5d/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "fc6a89385145fb071abd73923bfa8f06c6dd45d6",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fc6a89385145fb071abd73923bfa8f06c6dd45d6",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/fc6a89385145fb071abd73923bfa8f06c6dd45d6"
+      }
+    ]
+  },
+  {
+    "sha": "fc6a89385145fb071abd73923bfa8f06c6dd45d6",
+    "node_id": "C_kwDOG1-s0NoAKGZjNmE4OTM4NTE0NWZiMDcxYWJkNzM5MjNiZmE4ZjA2YzZkZDQ1ZDY",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-16T15:41:51Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-16T15:41:51Z"
+      },
+      "message": "Step 7",
+      "tree": {
+        "sha": "8633ecf688d53919a05ee28b5d904154e0defe45",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/8633ecf688d53919a05ee28b5d904154e0defe45"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/fc6a89385145fb071abd73923bfa8f06c6dd45d6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fc6a89385145fb071abd73923bfa8f06c6dd45d6",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/fc6a89385145fb071abd73923bfa8f06c6dd45d6",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fc6a89385145fb071abd73923bfa8f06c6dd45d6/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "2c3fe41fa6f624cc347ada6368bb2d9600655f2a",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/2c3fe41fa6f624cc347ada6368bb2d9600655f2a",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/2c3fe41fa6f624cc347ada6368bb2d9600655f2a"
+      }
+    ]
+  },
+  {
+    "sha": "2c3fe41fa6f624cc347ada6368bb2d9600655f2a",
+    "node_id": "C_kwDOG1-s0NoAKDJjM2ZlNDFmYTZmNjI0Y2MzNDdhZGE2MzY4YmIyZDk2MDA2NTVmMmE",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:11:08Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:11:08Z"
+      },
+      "message": "fix readme",
+      "tree": {
+        "sha": "87eda84156c991378f6c8d8227a26a35d439b541",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/87eda84156c991378f6c8d8227a26a35d439b541"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/2c3fe41fa6f624cc347ada6368bb2d9600655f2a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/2c3fe41fa6f624cc347ada6368bb2d9600655f2a",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/2c3fe41fa6f624cc347ada6368bb2d9600655f2a",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/2c3fe41fa6f624cc347ada6368bb2d9600655f2a/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e"
+      }
+    ]
+  },
+  {
+    "sha": "3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e",
+    "node_id": "C_kwDOG1-s0NoAKDNlZWFlMWE4MjhhMDNlOWE5ZGE4Nzc2NGY3MGFlOGE1ZjliN2QyMmU",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:09:02Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:09:02Z"
+      },
+      "message": "fix readme",
+      "tree": {
+        "sha": "f13343008ae43e93055085ec8cd04f4e22590857",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/f13343008ae43e93055085ec8cd04f4e22590857"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/3eeae1a828a03e9a9da87764f70ae8a5f9b7d22e/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "54e0422abcf6efa6222e60dea6de8ffc50d40ca1",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/54e0422abcf6efa6222e60dea6de8ffc50d40ca1",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/54e0422abcf6efa6222e60dea6de8ffc50d40ca1"
+      },
+      {
+        "sha": "12f56611b3bdf7d126d52c68a66fe6115507fe83",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/12f56611b3bdf7d126d52c68a66fe6115507fe83",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/12f56611b3bdf7d126d52c68a66fe6115507fe83"
+      }
+    ]
+  },
+  {
+    "sha": "54e0422abcf6efa6222e60dea6de8ffc50d40ca1",
+    "node_id": "C_kwDOG1-s0NoAKDU0ZTA0MjJhYmNmNmVmYTYyMjJlNjBkZWE2ZGU4ZmZjNTBkNDBjYTE",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:08:18Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:08:18Z"
+      },
+      "message": "fix readme",
+      "tree": {
+        "sha": "3c621005ce121a2f73dd79c8ae1b65dce99ffb35",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/3c621005ce121a2f73dd79c8ae1b65dce99ffb35"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/54e0422abcf6efa6222e60dea6de8ffc50d40ca1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/54e0422abcf6efa6222e60dea6de8ffc50d40ca1",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/54e0422abcf6efa6222e60dea6de8ffc50d40ca1",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/54e0422abcf6efa6222e60dea6de8ffc50d40ca1/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "deeb6371198d85ec1eaf4fc375a2a876afe17103",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/deeb6371198d85ec1eaf4fc375a2a876afe17103",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/deeb6371198d85ec1eaf4fc375a2a876afe17103"
+      }
+    ]
+  },
+  {
+    "sha": "12f56611b3bdf7d126d52c68a66fe6115507fe83",
+    "node_id": "C_kwDOG1-s0NoAKDEyZjU2NjExYjNiZGY3ZDEyNmQ1MmM2OGE2NmZlNjExNTUwN2ZlODM",
+    "commit": {
+      "author": {
+        "name": "Stanislav Ralko",
+        "email": "42869125+NoClaus@users.noreply.github.com",
+        "date": "2022-02-15T19:07:18Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-02-15T19:07:18Z"
+      },
+      "message": "Update README.MD",
+      "tree": {
+        "sha": "87eda84156c991378f6c8d8227a26a35d439b541",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/87eda84156c991378f6c8d8227a26a35d439b541"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/12f56611b3bdf7d126d52c68a66fe6115507fe83",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiC/nmCRBK7hj4Ov3rIwAA4DoIAEqdRzLHPiouN8HJ5iS5Ij09\nKbRJAIIlcuQMzTsBUX7I5RqeHWJ8ntGDo2GJsd+ciyG7gfKxhtsFV6jRupDSOym/\nfvjT5vPBJiVJm4nixOPFSc6TDNytlHlxbvlu4sBZesLjHWpk7FB6raS2hgYlBoS6\nUsrpmuNh1jKbyK9pFlNfU7Vkqdgf5079RrtNaORWj06RPTBxkDBtSrvwi+OJVSnB\nMqRx/cJkLEIABwxQTQB1S0nKbEQ851n+SYvly2SYCpYb2oY5Rh5Q1TmTJSo97vEI\n8n8uK6ExKkqsRkUxKwLw/HnmFjwdk0U75SaEgcCQjuWu7C3q4ypLLeWrkInnSPk=\n=/e2s\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 87eda84156c991378f6c8d8227a26a35d439b541\nparent deeb6371198d85ec1eaf4fc375a2a876afe17103\nauthor Stanislav Ralko <42869125+NoClaus@users.noreply.github.com> 1644952038 +0300\ncommitter GitHub <noreply@github.com> 1644952038 +0300\n\nUpdate README.MD"
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/12f56611b3bdf7d126d52c68a66fe6115507fe83",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/12f56611b3bdf7d126d52c68a66fe6115507fe83",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/12f56611b3bdf7d126d52c68a66fe6115507fe83/comments",
+    "author": {
+      "login": "NoClaus",
+      "id": 42869125,
+      "node_id": "MDQ6VXNlcjQyODY5MTI1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42869125?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/NoClaus",
+      "html_url": "https://github.com/NoClaus",
+      "followers_url": "https://api.github.com/users/NoClaus/followers",
+      "following_url": "https://api.github.com/users/NoClaus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/NoClaus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/NoClaus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/NoClaus/subscriptions",
+      "organizations_url": "https://api.github.com/users/NoClaus/orgs",
+      "repos_url": "https://api.github.com/users/NoClaus/repos",
+      "events_url": "https://api.github.com/users/NoClaus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/NoClaus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "deeb6371198d85ec1eaf4fc375a2a876afe17103",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/deeb6371198d85ec1eaf4fc375a2a876afe17103",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/deeb6371198d85ec1eaf4fc375a2a876afe17103"
+      }
+    ]
+  },
+  {
+    "sha": "deeb6371198d85ec1eaf4fc375a2a876afe17103",
+    "node_id": "C_kwDOG1-s0NoAKGRlZWI2MzcxMTk4ZDg1ZWMxZWFmNGZjMzc1YTJhODc2YWZlMTcxMDM",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:04:38Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:04:38Z"
+      },
+      "message": "fix makefile",
+      "tree": {
+        "sha": "6b71e6622fd9f796e92de02ad17073f56de20ed3",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/6b71e6622fd9f796e92de02ad17073f56de20ed3"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/deeb6371198d85ec1eaf4fc375a2a876afe17103",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/deeb6371198d85ec1eaf4fc375a2a876afe17103",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/deeb6371198d85ec1eaf4fc375a2a876afe17103",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/deeb6371198d85ec1eaf4fc375a2a876afe17103/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "4124602ac31545bdf0a387306fd36a6fcf75b671",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/4124602ac31545bdf0a387306fd36a6fcf75b671",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/4124602ac31545bdf0a387306fd36a6fcf75b671"
+      },
+      {
+        "sha": "c2a71717b3490e651cdd67545ddc7fe5bee394ee",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/c2a71717b3490e651cdd67545ddc7fe5bee394ee",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/c2a71717b3490e651cdd67545ddc7fe5bee394ee"
+      }
+    ]
+  },
+  {
+    "sha": "4124602ac31545bdf0a387306fd36a6fcf75b671",
+    "node_id": "C_kwDOG1-s0NoAKDQxMjQ2MDJhYzMxNTQ1YmRmMGEzODczMDZmZDM2YTZmY2Y3NWI2NzE",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:02:42Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T19:02:42Z"
+      },
+      "message": "fix devise views",
+      "tree": {
+        "sha": "3c621005ce121a2f73dd79c8ae1b65dce99ffb35",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/3c621005ce121a2f73dd79c8ae1b65dce99ffb35"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/4124602ac31545bdf0a387306fd36a6fcf75b671",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/4124602ac31545bdf0a387306fd36a6fcf75b671",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/4124602ac31545bdf0a387306fd36a6fcf75b671",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/4124602ac31545bdf0a387306fd36a6fcf75b671/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/50ea7654ef1d73bb13c76fe95b5855cac93b702b"
+      }
+    ]
+  },
+  {
+    "sha": "c2a71717b3490e651cdd67545ddc7fe5bee394ee",
+    "node_id": "C_kwDOG1-s0NoAKGMyYTcxNzE3YjM0OTBlNjUxY2RkNjc1NDVkZGM3ZmU1YmVlMzk0ZWU",
+    "commit": {
+      "author": {
+        "name": "Stanislav Ralko",
+        "email": "42869125+NoClaus@users.noreply.github.com",
+        "date": "2022-02-15T17:39:15Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-02-15T17:39:15Z"
+      },
+      "message": "Update README.MD",
+      "tree": {
+        "sha": "19f34b6d8041e3697db03d2b35f2ee92c10aaaad",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/19f34b6d8041e3697db03d2b35f2ee92c10aaaad"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/c2a71717b3490e651cdd67545ddc7fe5bee394ee",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiC+VDCRBK7hj4Ov3rIwAAsO4IABHP+WRWC0F9MmuguLONGniI\nlqow0dSLNjPuxg0mxlWSc3EtYAgqjPIgTLaxD1/1RhqqRg82w/MZv/ijeR06G1Oc\nRrxAefLkBa5E5anrxAfj9m1L6X5sr3imVsnnfxqOYymy/eVo4qFmek7+mIIntCcv\n+gWLhRZmZMT8SszCsrVxCCQziE9rr+8vgEnBgrh26bez3Guzfrws8L8+/IqUZNDF\nQ3ognMvlfXnA00LTFa1V4PzRXY9ZhTADmzIJDN3Fa410gzlvlcxG4eXXwFYYYf2n\nz1Jy3maTxlYG8vN1nqgLUViblLnFJuI9tiq8Imsopcb8S+iFQ244xy9XWwzOwSE=\n=n1XZ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 19f34b6d8041e3697db03d2b35f2ee92c10aaaad\nparent 50ea7654ef1d73bb13c76fe95b5855cac93b702b\nauthor Stanislav Ralko <42869125+NoClaus@users.noreply.github.com> 1644946755 +0300\ncommitter GitHub <noreply@github.com> 1644946755 +0300\n\nUpdate README.MD"
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/c2a71717b3490e651cdd67545ddc7fe5bee394ee",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/c2a71717b3490e651cdd67545ddc7fe5bee394ee",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/c2a71717b3490e651cdd67545ddc7fe5bee394ee/comments",
+    "author": {
+      "login": "NoClaus",
+      "id": 42869125,
+      "node_id": "MDQ6VXNlcjQyODY5MTI1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42869125?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/NoClaus",
+      "html_url": "https://github.com/NoClaus",
+      "followers_url": "https://api.github.com/users/NoClaus/followers",
+      "following_url": "https://api.github.com/users/NoClaus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/NoClaus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/NoClaus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/NoClaus/subscriptions",
+      "organizations_url": "https://api.github.com/users/NoClaus/orgs",
+      "repos_url": "https://api.github.com/users/NoClaus/repos",
+      "events_url": "https://api.github.com/users/NoClaus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/NoClaus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/50ea7654ef1d73bb13c76fe95b5855cac93b702b"
+      }
+    ]
+  },
+  {
+    "sha": "50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+    "node_id": "C_kwDOG1-s0NoAKDUwZWE3NjU0ZWYxZDczYmIxM2M3NmZlOTViNTg1NWNhYzkzYjcwMmI",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T17:36:27Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T17:36:27Z"
+      },
+      "message": "fix makefile",
+      "tree": {
+        "sha": "8211285f5c242e46f0ee7dedf61a9115028b474e",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/8211285f5c242e46f0ee7dedf61a9115028b474e"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/50ea7654ef1d73bb13c76fe95b5855cac93b702b",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/50ea7654ef1d73bb13c76fe95b5855cac93b702b/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "790125521f206b3ffb3818d4e23a2dd4a72ba07b",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/790125521f206b3ffb3818d4e23a2dd4a72ba07b",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/790125521f206b3ffb3818d4e23a2dd4a72ba07b"
+      }
+    ]
+  },
+  {
+    "sha": "790125521f206b3ffb3818d4e23a2dd4a72ba07b",
+    "node_id": "C_kwDOG1-s0NoAKDc5MDEyNTUyMWYyMDZiM2ZmYjM4MThkNGUyM2EyZGQ0YTcyYmEwN2I",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T17:01:21Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T17:01:21Z"
+      },
+      "message": "Merge branch 'main' of https://github.com/NoClaus/rails-project-lvl2 into main",
+      "tree": {
+        "sha": "c27ae2d5009c99a6b81eb2bba24d0d1494a464df",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/c27ae2d5009c99a6b81eb2bba24d0d1494a464df"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/790125521f206b3ffb3818d4e23a2dd4a72ba07b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/790125521f206b3ffb3818d4e23a2dd4a72ba07b",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/790125521f206b3ffb3818d4e23a2dd4a72ba07b",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/790125521f206b3ffb3818d4e23a2dd4a72ba07b/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "44bad1c646dd0b0f157046f87b098b31cc1a2d2a",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/44bad1c646dd0b0f157046f87b098b31cc1a2d2a",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/44bad1c646dd0b0f157046f87b098b31cc1a2d2a"
+      },
+      {
+        "sha": "955f7477d71b8fbbb851f560ed4ad9a2de330040",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/955f7477d71b8fbbb851f560ed4ad9a2de330040",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/955f7477d71b8fbbb851f560ed4ad9a2de330040"
+      }
+    ]
+  },
+  {
+    "sha": "44bad1c646dd0b0f157046f87b098b31cc1a2d2a",
+    "node_id": "C_kwDOG1-s0NoAKDQ0YmFkMWM2NDZkZDBiMGYxNTcwNDZmODdiMDk4YjMxY2MxYTJkMmE",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T17:00:48Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T17:00:48Z"
+      },
+      "message": "Fix bug  with gemlock file",
+      "tree": {
+        "sha": "c27ae2d5009c99a6b81eb2bba24d0d1494a464df",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/c27ae2d5009c99a6b81eb2bba24d0d1494a464df"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/44bad1c646dd0b0f157046f87b098b31cc1a2d2a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/44bad1c646dd0b0f157046f87b098b31cc1a2d2a",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/44bad1c646dd0b0f157046f87b098b31cc1a2d2a",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/44bad1c646dd0b0f157046f87b098b31cc1a2d2a/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6812f50f7002508b19f0295c8938293fd1071986",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6812f50f7002508b19f0295c8938293fd1071986",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/6812f50f7002508b19f0295c8938293fd1071986"
+      }
+    ]
+  },
+  {
+    "sha": "955f7477d71b8fbbb851f560ed4ad9a2de330040",
+    "node_id": "C_kwDOG1-s0NoAKDk1NWY3NDc3ZDcxYjhmYmJiODUxZjU2MGVkNGFkOWEyZGUzMzAwNDA",
+    "commit": {
+      "author": {
+        "name": "Stanislav Ralko",
+        "email": "42869125+NoClaus@users.noreply.github.com",
+        "date": "2022-02-15T16:50:54Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-02-15T16:50:54Z"
+      },
+      "message": "Added gem 'slim_lint'",
+      "tree": {
+        "sha": "46bcaa6f55ecf30d594a0c76c5f329ab05b28ec5",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/46bcaa6f55ecf30d594a0c76c5f329ab05b28ec5"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/955f7477d71b8fbbb851f560ed4ad9a2de330040",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJiC9nuCRBK7hj4Ov3rIwAA8JsIAF0bSqmHlscAGwml7RQSQVjO\nXvWMBc0dbWSXWE3YdFIEMg4bRdvK1SsCTwCTqRvErWPFzmiSdD3BoEvayeOqVD5A\nIyjU98A899RbEI34U/x2zfa+jIPxSzwFMr7JIEFz5Z2f5vbbTo/UqenOgtN1AHUN\n7+eo4zgNOKjrIh918uan2y49PW52ilXqWLdcAdhlcwiH38FPho8pEwvk9nVOSIlI\n/s9zSMoAYuTj5H50S+gZRcz/t6U45uIIhe+Jh1wKYJv7JgYgdk98VRvbgaCnqZ/H\nClzbAAS+w2ZJBZFP5uID+7kwB/0vjdQjO+ED31u5x7MPCsCyW3rU8FovYbgcRCM=\n=jBWH\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 46bcaa6f55ecf30d594a0c76c5f329ab05b28ec5\nparent 6812f50f7002508b19f0295c8938293fd1071986\nauthor Stanislav Ralko <42869125+NoClaus@users.noreply.github.com> 1644943854 +0300\ncommitter GitHub <noreply@github.com> 1644943854 +0300\n\nAdded gem 'slim_lint'"
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/955f7477d71b8fbbb851f560ed4ad9a2de330040",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/955f7477d71b8fbbb851f560ed4ad9a2de330040",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/955f7477d71b8fbbb851f560ed4ad9a2de330040/comments",
+    "author": {
+      "login": "NoClaus",
+      "id": 42869125,
+      "node_id": "MDQ6VXNlcjQyODY5MTI1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42869125?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/NoClaus",
+      "html_url": "https://github.com/NoClaus",
+      "followers_url": "https://api.github.com/users/NoClaus/followers",
+      "following_url": "https://api.github.com/users/NoClaus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/NoClaus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/NoClaus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/NoClaus/subscriptions",
+      "organizations_url": "https://api.github.com/users/NoClaus/orgs",
+      "repos_url": "https://api.github.com/users/NoClaus/repos",
+      "events_url": "https://api.github.com/users/NoClaus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/NoClaus/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6812f50f7002508b19f0295c8938293fd1071986",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6812f50f7002508b19f0295c8938293fd1071986",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/6812f50f7002508b19f0295c8938293fd1071986"
+      }
+    ]
+  },
+  {
+    "sha": "6812f50f7002508b19f0295c8938293fd1071986",
+    "node_id": "C_kwDOG1-s0NoAKDY4MTJmNTBmNzAwMjUwOGIxOWYwMjk1Yzg5MzgyOTNmZDEwNzE5ODY",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T16:48:21Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T16:48:21Z"
+      },
+      "message": "Fix github action and makefile",
+      "tree": {
+        "sha": "97d2fb94ef21df49eb771f93c7b89d90b25c1d14",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/97d2fb94ef21df49eb771f93c7b89d90b25c1d14"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/6812f50f7002508b19f0295c8938293fd1071986",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6812f50f7002508b19f0295c8938293fd1071986",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/6812f50f7002508b19f0295c8938293fd1071986",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6812f50f7002508b19f0295c8938293fd1071986/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de"
+      }
+    ]
+  },
+  {
+    "sha": "fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de",
+    "node_id": "C_kwDOG1-s0NoAKGZkZTdmN2ZlMDk3YmRkN2FlYjZkOTRmMGIwMmIwNjNiNDQ5MmI2ZGU",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T16:43:30Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T16:43:30Z"
+      },
+      "message": "Step 6: added comments controller and model. Installed Ancestry gem",
+      "tree": {
+        "sha": "1e845cc00f659230e907deb15f9311e9d5210055",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/1e845cc00f659230e907deb15f9311e9d5210055"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/fde7f7fe097bdd7aeb6d94f0b02b063b4492b6de/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "406a5b2b194e3eecb80cb6f8cec8913fff47b43a",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/406a5b2b194e3eecb80cb6f8cec8913fff47b43a",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/406a5b2b194e3eecb80cb6f8cec8913fff47b43a"
+      }
+    ]
+  },
+  {
+    "sha": "406a5b2b194e3eecb80cb6f8cec8913fff47b43a",
+    "node_id": "C_kwDOG1-s0NoAKDQwNmE1YjJiMTk0ZTNlZWNiODBjYjZmOGNlYzg5MTNmZmY0N2I0M2E",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T14:56:39Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T14:56:39Z"
+      },
+      "message": "Step 5: Added Post CRUD and tests",
+      "tree": {
+        "sha": "f24777ea0c374f13ff7f1d68808a9bd4466f5514",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/f24777ea0c374f13ff7f1d68808a9bd4466f5514"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/406a5b2b194e3eecb80cb6f8cec8913fff47b43a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/406a5b2b194e3eecb80cb6f8cec8913fff47b43a",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/406a5b2b194e3eecb80cb6f8cec8913fff47b43a",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/406a5b2b194e3eecb80cb6f8cec8913fff47b43a/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f"
+      }
+    ]
+  },
+  {
+    "sha": "9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f",
+    "node_id": "C_kwDOG1-s0NoAKDliMDZkZDFhYzE5MTczNDBlMzJjZjRhZGI0ZjMwMWY2YzRmZmFhMGY",
+    "commit": {
+      "author": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T12:46:19Z"
+      },
+      "committer": {
+        "name": "NoClaus",
+        "email": "ralko.stanislav@gmail.com",
+        "date": "2022-02-15T12:46:19Z"
+      },
+      "message": "Step 5: Added PostCategory and Post models",
+      "tree": {
+        "sha": "d5e3ed4c6f538a35342ce733931f0a41c71931e0",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/trees/d5e3ed4c6f538a35342ce733931f0a41c71931e0"
+      },
+      "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/git/commits/9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f",
+    "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f",
+    "comments_url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/9b06dd1ac1917340e32cf4adb4f301f6c4ffaa0f/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6b0c2f52697aacc35ba5b9ea7b15bff058e60059",
+        "url": "https://api.github.com/repos/NoClaus/rails-project-lvl2/commits/6b0c2f52697aacc35ba5b9ea7b15bff058e60059",
+        "html_url": "https://github.com/NoClaus/rails-project-lvl2/commit/6b0c2f52697aacc35ba5b9ea7b15bff058e60059"
+      }
+    ]
+  }
+]
